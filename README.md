@@ -2,5 +2,4 @@
 <br>
 <p>This is a new features(dropdown)</p>
 <br>
-<p>This is a new features (Button)</p>
 
